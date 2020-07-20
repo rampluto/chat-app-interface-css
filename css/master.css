@@ -1,0 +1,235 @@
+#top_heading{
+  text-align: center;
+  color: hsl(271, 36%, 24%);
+}
+#content{
+  text-align: center;
+  color: hsl(270, 7%, 64%);
+}
+.design_box{
+  background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+  height: 600px;
+  width: 450px;
+  background-color: hsl(264, 100%, 61%);
+  border-bottom-right-radius: 250px;
+  border-bottom-left-radius: 200px;
+  margin:-60px;
+}
+.content_box{
+  position: absolute;
+  top: 250px;
+  left: 600px;
+}
+.mobile_content{
+  position: absolute;
+  top: 100px;
+  left: 300px;
+  height: 450px;
+  width: 250px;
+  box-shadow: grey 5px 5px 5px 5px;
+  border-radius: 20px;
+  background-color: hsl(270, 20%, 96%);
+}
+.mobile_design_box{
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 220px;
+  height: 70px;
+  background-color: hsl(264, 100%, 61%);
+  background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+  border-radius: 10px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.mobile_inside_design{
+  position: absolute;
+  top: 15px;
+  left: 65px;
+  width: 115px;
+  height: 20px;
+  background-color: hsl(270, 20%, 96%);
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius: 10px;
+}
+.profile{
+  position: absolute;
+  top:30px;
+  left: 30px;
+  width:200px;
+  height: 50px;
+}
+.profile_pic{
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 50px;
+  height: 25px;
+}
+.Profile_name{
+  position: absolute;
+  top:5px;
+  left: 50px;
+  color: white;
+  font-size: 10px;
+  font-weight:550;
+}
+.status{
+  color: white;
+  position: absolute;
+  top:25px;
+  left: 50px;
+  font-size: 5px;
+}
+.message1{
+  position: absolute;
+  padding: 6px;
+  width: 120px;
+  height: 20px;
+  top: 100px;
+  left:15px;
+  background-color: #e4e3e3;
+  color: hsl(276, 55%, 52%);
+  font-size: 6px;
+  border-radius: 10px;
+}
+.message2{
+  position: absolute;
+  padding: 6px;
+  width: 120px;
+  height: 20px;
+  top: 135px;
+  left:15px;
+  background-color: #e4e3e3;
+  color: hsl(276, 55%, 52%);
+  font-size: 6px;
+  border-radius: 10px;
+}
+.dog_images{
+  position: absolute;
+  top:175px;
+  left: 100px;
+  float: left;
+  width:200px;
+}
+.dog_image{
+  border-radius: 5px;
+}
+.message3{
+  position: absolute;
+  padding: 6px;
+  width: 120px;
+  height: 20px;
+  top: 220px;
+  left:100px;
+  background-color: white;
+  font-size: 6px;
+  border-radius: 10px;
+}
+.message4{
+  position: absolute;
+  padding: 6px;
+  top: 255px;
+  height:20px;
+  left:160px;
+  background-color: white;
+  font-size: 6px;
+  border-radius: 10px;
+}
+.message5{
+  position: absolute;
+  padding: 6px;
+  width: 120px;
+  height: 25px;
+  top: 290px;
+  left:15px;
+  background-color: #e4e3e3;
+  color: hsl(276, 55%, 52%);
+  font-size: 6px;
+  border-radius: 10px;
+}
+.booking_1{
+  position: absolute;
+  padding: 6px;
+  width: 150px;
+  height: 20px;
+  top: 335px;
+  left:15px;
+  background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+  background-color: hsl(264, 100%, 61%);
+  color: white;
+  font-size: 6px;
+  border-radius: 10px;
+}
+.dot{
+  position: absolute;
+  top: 10px;
+  height: 10px;
+  width: 10px;
+  border: solid white 0.5px;
+  background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+  border-radius: 50%;
+  display: inline-block;
+}
+.pricing{
+  position: absolute;
+  left: 30px;
+  top: 7px;
+}
+.price{
+  position: absolute;
+  left: 135px;
+  top: 2px;
+  font-weight: bold;
+  font-size: 10px;
+}
+.booking_2{
+  position: absolute;
+  padding: 6px;
+  width: 150px;
+  height: 20px;
+  top: 370px;
+  left:15px;
+  background-image: linear-gradient(hsl(293, 100%, 63%),hsl(264, 100%, 61%));
+  background-color: hsl(264, 100%, 61%);
+  color: white;
+  font-size: 6px;
+  border-radius: 10px;
+}
+.placeholder_message{
+  position: absolute;
+  padding: 6px;
+  top: 410px;
+  left: 20px;
+  width: 200px;
+  height:20px;
+  background-color: white;
+  font-size: 6px;
+  border-radius: 10px;
+}
+.message_box{
+  color: grey;
+  padding-left: 10px;
+  font-size: 7px;
+}
+.submit_button{
+  position: absolute;
+  top: 2px;
+  margin: 2px;
+  left: 170px;
+  height: 25px;
+  width: 25px;
+  background-color: hsl(271, 36%, 24%);
+  border-radius: 50%;
+  display: inline-block;
+}
+.enter{
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: -7px;
+  left: 178px;
+}
